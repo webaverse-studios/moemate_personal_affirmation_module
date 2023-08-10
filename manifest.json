@@ -1,0 +1,28 @@
+{
+  "name": "Personal Affirmation",
+  "title": "Personal Affirmation",
+  "description": "Helps with depression and increase the mood of the user",
+  "authors": [
+    {
+      "name": "Memelotsqui",
+      "email": "memelotsqui@gmail.com",
+      "url": "memelotsqui.com"
+    }
+  ],
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "0.9.3",
+    "verified": "0.9.3"
+  },
+  "scripts": [
+    "scripts/personal_affirmation.js"
+  ],
+  "skills":[
+    "skills/ganbare.json.hbs",
+    "skills/comfort.json.hbs"
+    
+  ],
+  "prompts":[
+    "prompts/personal_affirmation.hbs"
+  ]
+}
